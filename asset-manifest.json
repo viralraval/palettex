@@ -1,18 +1,20 @@
 {
   "files": {
     "main.css": "/palettex/static/css/main.073c9b0a.css",
-    "main.js": "/palettex/static/js/main.91720f0e.js",
+    "main.js": "/palettex/static/js/main.a3b6a75f.js",
     "static/js/787.d3373871.chunk.js": "/palettex/static/js/787.d3373871.chunk.js",
+    "static/media/rocket.svg": "/palettex/static/media/rocket.a96726b7d459a3e3ad300793069e95e7.svg",
     "static/media/black.svg": "/palettex/static/media/black.c26e8228029f88f57188bc0476405779.svg",
     "static/media/white.svg": "/palettex/static/media/white.17db470542ee0cd411be36e90f6941ac.svg",
+    "static/media/launchday.svg": "/palettex/static/media/launchday.99797640b4205740341fcf5023384cfe.svg",
     "static/media/plain.svg": "/palettex/static/media/plain.eec45e6f31ac15b2b270535bfa0810de.svg",
     "index.html": "/palettex/index.html",
     "main.073c9b0a.css.map": "/palettex/static/css/main.073c9b0a.css.map",
-    "main.91720f0e.js.map": "/palettex/static/js/main.91720f0e.js.map",
+    "main.a3b6a75f.js.map": "/palettex/static/js/main.a3b6a75f.js.map",
     "787.d3373871.chunk.js.map": "/palettex/static/js/787.d3373871.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.91720f0e.js"
+    "static/js/main.a3b6a75f.js"
   ]
 }
